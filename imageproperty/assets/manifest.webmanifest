@@ -1,0 +1,1 @@
+{"name":"Property Studio","short_name":"Studio","description":"The Property Team’s Property Studio, on your phone.","start_url":"/m","scope":"/","display":"standalone","orientation":"any","background_color":"#f5f3ee","theme_color":"#13314f","icons":[{"src":"/icon.png","sizes":"512x512","type":"image/png"},{"src":"/apple-icon.png","sizes":"180x180","type":"image/png"}]}
